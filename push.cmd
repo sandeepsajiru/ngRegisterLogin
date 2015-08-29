@@ -1,4 +1,4 @@
-
+@echo off
 if %1=="" goto blank
 git add -A
 git status
