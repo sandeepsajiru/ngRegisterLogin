@@ -1,0 +1,11 @@
+1. Install Node
+2. Install Git
+3. Create Git Project
+4. Clone Git Project
+5. Open Cmd Prompt and Run Following Commands
+	npm install -g yo
+	npm install -g bower
+	npm install -g grunt-cli
+	npm install -g generator-angular
+6. yo angular
+7. grunt serve
